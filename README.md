@@ -1,6 +1,7 @@
+
 # 🚀 Launch UI – Next.js Website Components Template
 
-A comprehensive collection of production-ready website components built with Next.js, Shadcn/ui, and Tailwind CSS. Perfect for developers looking to quickly build modern, responsive websites with the power of shadcn/ui components.
+A comprehensive collection of production-ready website components built with Next.js, shadcn/ui, and Tailwind CSS. Perfect for developers looking to quickly build modern, responsive websites with the power of shadcn/ui components.
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-blue)](https://tailwindcss.com/)
@@ -11,7 +12,7 @@ A comprehensive collection of production-ready website components built with Nex
 
 > [!TIP]
 > **Tailwind v4 + React 19:**
-> Launch UI v2.0 adds full support for Tailwind v4, React 19 and Next.js 15.
+> Launch UI v2.0 adds full support for Tailwind v4, React 19, and Next.js 15.
 > If you're using Tailwind 3, a version that supports it is still maintained on a [separate branch](https://github.com/launch-ui/launch-ui/tree/tailwind-3).
 
 ## 🚀 Quick Start
@@ -26,7 +27,7 @@ npm install
 npm run dev
 ```
 
-3. Open [http://localhost:3000](http://localhost:3000) to view your site
+3. Open [http://localhost:3000](http://localhost:3000) to view your site.
 
 ## 📚 Resources
 
@@ -39,7 +40,7 @@ npm run dev
 - 📱 **Fully Responsive**: All components work perfectly across desktop, tablet, and mobile devices
 - ⚡ **Performance Optimized**: Leverages Next.js 14 features for optimal loading speed
 - 🌗 **Dark Mode Support**: Seamless light/dark mode switching with system preference detection
-- ♿ **Accessibility First**: WCAG compliant components for inclusive web experiences
+- ♿ **Accessibility First**: WCAG-compliant components for inclusive web experiences
 - 🎯 **SEO Optimized**: Built with best practices for search engine visibility
 
 ## 🧱 Components
@@ -51,7 +52,7 @@ npm run dev
 - **Items**: Flexible grid system for feature lists, pricing tables, and product showcases. Includes both default and branded variants with responsive layouts
 - **Logos**: Clean logo showcase component with static grid layout. Perfect for displaying brand partnerships and client logos with consistent styling
 - **FAQ**: Comprehensive FAQ component with expandable accordions. Features smooth animations and responsive design for optimal user experience
-- **Stats**: Versatile statistics display component with horizontal, tiles, and grid layouts. Perfect for showcasing statistics, big numbers, key metrics and data points
+- **Stats**: Versatile statistics display component with horizontal, tile, and grid layouts. Perfect for showcasing statistics, big numbers, key metrics, and data points
 - **CTA**: Powerful call-to-action component with multiple styles including box layouts and beam effects. Designed to create compelling sections that drive user engagement
 - **Footer**: Versatile footer with multiple layout variants including default, minimal, and multi-column styles. Perfect for organizing site information and links
 
@@ -75,12 +76,12 @@ npm run dev
 
 ## 💡 Use Cases
 
-Launch UI was made for products that need a great-looking, conversion-optimized landing page that speaks to proffessional quality-oriented audiences.
+Launch UI was made for products that need a great-looking, conversion-optimized landing page that speaks to professional, quality-oriented audiences.
 
 Perfect for building landing pages for:
 
 - 🛠️ **Developer Tools**: Present APIs, SDKs, CLI tools, and technical infrastructure products
-- 🤖 **AI-Powered Applications**: Showcase products made with AI, assistants, agents and automation tools
+- 🤖 **AI-Powered Applications**: Showcase products made with AI, assistants, agents, and automation tools
 - 💻 **SaaS Products**: Launch web applications, productivity tools, and business solutions
 - 📱 **Mobile Apps**: Promote iOS and Android applications with beautiful app showcases
 - 🚀 **Startup Products**: Perfect for indie hackers, solo founders, and technical startups
